@@ -2,6 +2,8 @@
 
 Brickfield is a multiplayer survival zombie game developed in Unreal Engine 4.
 
+Gameplay: https://youtu.be/XhqAhaDQFag
+
 Here some screenshots of the game:
 ![GitHub Logo](/Images/Menu.png)
 ![GitHub Logo](/Images/Splitscreen.png)
